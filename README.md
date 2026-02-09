@@ -1,2 +1,5 @@
 # FUENTES-Lara-Rain-B.
 I explored how decimal precision affects scientific math by testing pi up to 100 places. Using the Pendulum Period formula, I compared Truncation vs. Rounding to see which method minimizes error. This shows pi as a fundamental constant of time and gravity, not just circles.
+
+<img width="1490" height="858" alt="Screenshot 2026-02-09 091734" src="https://github.com/user-attachments/assets/128d781d-6dca-4c6e-973b-2698977f48e4" />
+<img width="1176" height="385" alt="Screenshot 2026-02-09 091807" src="https://github.com/user-attachments/assets/bf7bb752-b51f-473a-ae07-7498ae4fab0e" />
