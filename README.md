@@ -12,3 +12,4 @@ This graph shows the overall stability of the Pendulum Period formula. It demons
 
 For the Red and Green Error Graphs (The Sloping Lines)
 Since the differences in precision are too small to see on a standard scale, I used a Logarithmic Error Graph to visualize the 'residual error.' The steep downward slope represents the exponential increase in accuracy as more decimals are added. Comparing the two lines confirms that the Rounding method (green) consistently maintains a lower error margin than simple Truncation (red).
+
