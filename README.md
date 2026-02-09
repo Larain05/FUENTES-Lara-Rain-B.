@@ -7,9 +7,6 @@ Using the Pendulum Period formula, I compared Truncation vs. Rounding to see whi
 For the Terminal Table (The Grid of Numbers)
 This table compares Truncation and Rounding side-by-side. By using a '+1 peek digit,' you can see exactly where the two methods diverge. The 'YES' markers at 40 and 60 digits prove that rounding the input of pi leads to a more precise calculation of the pendulum's period.
 
-For the Initial Green Graph (The Flat Line)
-This graph shows the overall stability of the Pendulum Period formula. It demonstrates that while we are increasing the precision of pi on the X-axis, the physical result remains constant at approximately 2.006 seconds, proving the formula is reliable for real-world applications.
-
 For the Red and Green Error Graphs (The Sloping Lines)
 Since the differences in precision are too small to see on a standard scale, I used a Logarithmic Error Graph to visualize the 'residual error.' The steep downward slope represents the exponential increase in accuracy as more decimals are added. Comparing the two lines confirms that the Rounding method (green) consistently maintains a lower error margin than simple Truncation (red).
 
